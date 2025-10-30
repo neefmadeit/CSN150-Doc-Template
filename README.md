@@ -13,14 +13,18 @@ Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner".
 
 ## Links to documentation
 
-##### Video 1: 
+##### Video 1: https://youtu.be/I22uHf97EG4
+
+##### Video 2: https://youtu.be/HQBtwz5EBZM
 
 ##### Other Links: 
 
 
 ## Steps I followed
-1. Write the steps you followed here.  This way you can keep track of where you might have messed up if the project does not work. 
-
+1. Bought the ESP32 Cam from Amazon
+2. Installed Arduino IDE
+3. Installed the CH340 Windows Driver
+   
 ## Problems
 Note your problems or errors here.  Google any error you may come across, and not what you tried (even if it does not work), and what was the final answer. Document your errors and solutions that worked for you.  
 
