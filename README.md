@@ -17,7 +17,7 @@ Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner".
 
 ##### Video 2: https://youtu.be/HQBtwz5EBZM
 
-##### Other Links: 
+##### Other Links: https://lastminuteengineers.com/esp32-arduino-ide-tutorial/
 
 
 ## Steps I followed
@@ -25,6 +25,12 @@ Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner".
 2. Installed Arduino IDE
 3. Installed the CH340 Windows Driver
 4. Updated Ardunio preferences with link provided
+5. Installed board drivers
+6. Installed the esp32 library by Expressif Systems
+7. Connected the ESP32 Cam and open up the blink example code
+8. Modified the code with the correct PIN number
+9. Ran the code
+10. 
    
 ## Problems
 Note your problems or errors here.  Google any error you may come across, and not what you tried (even if it does not work), and what was the final answer. Document your errors and solutions that worked for you.  
