@@ -1,4 +1,4 @@
-# Cybersecurity : CSN150-Doc
+# Cybersecurity : CSN150
 
 ## Name of Project
 ESP32 Introduction
