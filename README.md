@@ -32,5 +32,6 @@ Set up ESP32 and Arduino enviornment. Execute sketch " Wifiscanner".
 9. Ran the code
    
 ## Problems
-
+No problems encountered.
 ## Final Report
+To make the esp32 blink faster you decrease the delay time and to make it blink slower you increase the delay time.
